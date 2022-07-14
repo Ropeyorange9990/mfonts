@@ -1,4 +1,4 @@
 # mfonts
-mfonts-repo
-To unzip use :
-zip -F msf.zip --out mfonts.zip
+
+# To unzip :
+# zip -F msf.zip --out mfonts.zip
